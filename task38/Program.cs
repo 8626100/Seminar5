@@ -27,4 +27,4 @@ for (int i = 0; i < N; i++)
     }
 }
  double difference = Max - Min;
-Console.WriteLine($"Разница между максимальным {Max} и минимальным {Min} элементами массива = {difference}");5
+Console.WriteLine($"Разница между максимальным {Max} и минимальным {Min} элементами массива = {difference}");
